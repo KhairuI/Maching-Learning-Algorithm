@@ -1,2 +1,2 @@
 # Maching-Learning-Algorithm
-01. Multiple Linear Regression
+01. Multiple Linear Regression: Prediction profit based on some data. 
